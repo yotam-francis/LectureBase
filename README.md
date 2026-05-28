@@ -93,6 +93,7 @@ known content.
 Indexing a 1-hour lecture takes roughly 10–20 minutes on CPU with the
 `small` model. A GPU is not required but significantly speeds up both
 transcription and embedding.
+My private laptop has no fancy GPU ¯\_(ツ)_/¯
 
 ---
 
